@@ -21,7 +21,7 @@ public class UserController {
     @PostMapping("/new")
     public ResponseEntity<String> createNewUser(@RequestBody UserRequestDTO userRequestDTO) {
 
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 1000000; i++) {
             userRequestDTO.setNumber(i);
             kafkaProducer.sendMessage(userRequestDTO);
         }
