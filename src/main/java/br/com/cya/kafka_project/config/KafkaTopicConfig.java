@@ -1,4 +1,4 @@
-package config;
+package br.com.cya.kafka_project.config;
 
 import org.apache.kafka.clients.admin.AdminClientConfig;
 import org.apache.kafka.clients.admin.NewTopic;
@@ -24,7 +24,7 @@ public class KafkaTopicConfig {
     }
 
     @Bean
-    public NewTopic topic1() {
+    public NewTopic topic() {
         return new NewTopic("cya-topic", 1, (short) 1);
     }
 }
