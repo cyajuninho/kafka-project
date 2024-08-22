@@ -23,6 +23,7 @@ public class UserController {
 
         for (int i = 0; i < 1000000; i++) {
             userRequestDTO.setNumber(i);
+            System.out.println("Sending message: " + i);
             kafkaProducer.sendMessage(userRequestDTO);
         }
         return ResponseEntity.ok("User created successfully");
