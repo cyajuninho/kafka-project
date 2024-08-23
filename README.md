@@ -10,7 +10,7 @@ O projeto é composto por duas aplicações: uma responsável por produzir mensa
 Foi criada uma rota no UserController da producer-app, responsável por receber uma requisição POST e enviar 1.000.000 de mensagens para o consumidor.
 
 
-Para mais detalhes, você pode assistir a um vídeo sobre o projeto neste link: "url"
+Para mais detalhes, você pode assistir a um vídeo sobre o projeto neste ["link"](https://www.linkedin.com/posts/cyajuninho_docker-kafka-springboot-activity-7232894868421828608-QJ31?utm_source=share&utm_medium=member_desktop)
 
 
 Kafka Project - EN
@@ -25,4 +25,4 @@ The project consists of two applications: one responsible for producing messages
 A route was created in the producer-app's `UserController`, responsible for receiving a POST request and sending 1,000,000 messages to the consumer.
 
 
-For more details, you can watch a video about the project at this link: "url"
+For more details, you can watch a video about the project at this ["link"](https://www.linkedin.com/posts/cyajuninho_docker-kafka-springboot-activity-7232894868421828608-QJ31?utm_source=share&utm_medium=member_desktop)
