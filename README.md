@@ -13,8 +13,6 @@ Foi criada uma rota no UserController da producer-app, responsável por receber 
 Para mais detalhes, você pode assistir a um vídeo sobre o projeto neste link: "url"
 
 
-============================
-
 Kafka Project - EN
 ============================
 
