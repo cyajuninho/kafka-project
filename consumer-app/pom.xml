@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.cya</groupId>
-	<artifactId>kafka-project</artifactId>
+	<artifactId>consumer-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kafka-project</name>
+	<name>consumer-app</name>
 	<description>kafka example</description>
 	<url/>
 	<licenses>
